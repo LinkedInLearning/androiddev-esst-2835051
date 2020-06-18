@@ -2,3 +2,7 @@
 node_modules
 .tmp
 npm-debug.log
+.idea/
+.gradle/
+local.properties
+build/
