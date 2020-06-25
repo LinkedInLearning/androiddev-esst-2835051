@@ -1,7 +1,7 @@
-# COURSENAME
-This is the repository for the LinkedIn Learning course [COURSENAME]. The full course is available from [LinkedIn Learning](LICOURSEURL).
+# Android Development Essentials
+This is the repository for the LinkedIn Learning course Android Development Essentials. The full course is available from [LinkedIn Learning](LICOURSEURL).
 
-[![COURSENAME](COURSEIMAGE)](LICOURSEURL)
+[![Android Development Essentials](COURSEIMAGE)](LICOURSEURL)
 
 [COURSEDESCRIPTION]
 
@@ -14,6 +14,5 @@ Some branches will have a beginning and an end state. These are marked with the 
 
 ## Installing
 1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
+	- Android Studio
 2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
